@@ -5,6 +5,7 @@ import ExpenseListView from "../list/expenselistview";
 import type { ExpenseResponse } from "../models/expense";
 const ExpensesPageView = () => {
   const [expenses, setExpenses] = useState<ExpenseResponse[]>([]);
+  return(
   <div className="flex justify-start min-h-screen min-w-screen flex-col gap-10">
     <header>
       <BudgetHeader />
@@ -13,7 +14,7 @@ const ExpensesPageView = () => {
       <BudgetForm />
       <ExpenseListView expenses={expenses} />
     </section>
-  </div>;
+  </div>);
 };
 
 export default ExpensesPageView;

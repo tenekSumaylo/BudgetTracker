@@ -7,6 +7,7 @@ import {
   ItemTitle,
 } from "../ui/item";
 import type { ExpenseList } from "../models/expense";
+import { Pagination } from "../ui/pagination";
 
 const ExpenseListView = ({ expenses }: ExpenseList) => {
   return (
@@ -30,6 +31,7 @@ const ExpenseListView = ({ expenses }: ExpenseList) => {
           </li>
         ))}
       </ol>
+      <Pagination/>
     </div>
   );
 };
