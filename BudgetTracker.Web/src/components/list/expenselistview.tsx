@@ -1,34 +1,37 @@
 import { Button } from "../ui/button";
-import { Item, 
-    ItemActions, 
-    ItemContent, 
-    ItemDescription, 
-    ItemTitle
+import {
+  Item,
+  ItemActions,
+  ItemContent,
+  ItemDescription,
+  ItemTitle,
 } from "../ui/item";
+import type { ExpenseList } from "../models/expense";
 
-const ExpenseListView = () => {
-    return(
-        <div>
-            <ol className="list-none">
-                <li>
-                    <Item variant="outline">
-                        <ItemContent>
-                            <ItemTitle>Item Test</ItemTitle>
-                            <ItemDescription>
-                                This is a test item only for viewing
-                            </ItemDescription>
-                        </ItemContent>
-                        <ItemActions>
-                            <Button variant="outline" size="sm">
-                                Inspect
-                            </Button>
-                        </ItemActions>
-
-                    </Item>
-                </li>
-            </ol>
-        </div>
-    );
-}
+const ExpenseListView = ({ expenses }: ExpenseList) => {
+  return (
+    <div>
+      <ol className="list-none">
+        {expenses.map((exp) => (
+          <li key={exp.Id}>
+            <Item variant="outline">
+              <ItemContent>
+                <ItemTitle>
+                  {exp.expenseLabel} - {exp.amount}
+                </ItemTitle>
+                <ItemDescription>{exp.reasonOfExpense}</ItemDescription>
+              </ItemContent>
+              <ItemActions>
+                <Button variant="outline" size="sm">
+                  Inspect
+                </Button>
+              </ItemActions>
+            </Item>
+          </li>
+        ))}
+      </ol>
+    </div>
+  );
+};
 
 export default ExpenseListView;
