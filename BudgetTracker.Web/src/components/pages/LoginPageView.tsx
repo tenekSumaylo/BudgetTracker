@@ -1,12 +1,7 @@
 import BudgetHeader from "../layout/header";
 import type { Login } from "../models/loginCredentials";
 import { Button } from "../ui/button";
-import {
-  useState,
-  type ChangeEvent,
-  type FormEvent,
-  type ReactEventHandler,
-} from "react";
+import { useState, type ChangeEvent, type FormEvent } from "react";
 import {
   Card,
   CardAction,
