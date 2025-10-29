@@ -19,6 +19,7 @@ namespace BudgetTracker.Data.Concrete
         public async Task AddExpense(Expense item)
         {
             await _context.AddAsync(item);
+            await _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<Expense>> GetExpenses()

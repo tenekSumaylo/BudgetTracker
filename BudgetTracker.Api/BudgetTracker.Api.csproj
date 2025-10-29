@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BudgetTracker.Core\BudgetTracker.Core.csproj" />
+    <ProjectReference Include="..\BudgetTracker.Data\BudgetTracker.Data.csproj" />
   </ItemGroup>
 
 </Project>

@@ -22,5 +22,4 @@ namespace BudgetTracker.Data.Context
 
         }
     }
-    }
 }

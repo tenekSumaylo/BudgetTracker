@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BudgetTracker.Core.EFModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace BudgetTracker.Core.ExpenseServices
 {
     public interface IExpenseService
     {
-        void AddExpense();
-        void GetExpenses();
+        Task AddExpense(Expense data);
+        Task<IEnumerable<Expense>> GetExpenses();
     }
 }

@@ -1,4 +1,5 @@
-﻿using BudgetTracker.Core.EFModels;
+﻿using BudgetTracker.Core.Dtos;
+using BudgetTracker.Core.EFModels;
 using BudgetTracker.Core.Repositories;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using System;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace BudgetTracker.Core.ExpenseServices.Concrete
 {
-    public class ExpenseService : IExpenseService<Expense>
+    public class ExpenseService : IExpenseService
     {
         private readonly IExpenseRepository<Expense> _expenseRepository;
         
@@ -19,14 +20,15 @@ namespace BudgetTracker.Core.ExpenseServices.Concrete
             _expenseRepository = expenseRepository;
         }   
 
-        public void AddExpense()
+        public async Task AddExpense(Expense data)
         {
-            throw new NotImplementedException();
+            data.UserId = 1; // Hardcoded user ID for demonstration purposes 
+            await _expenseRepository.AddExpense(data);
         }
 
-        public async Task GetExpenses()
+        public async Task<IEnumerable<Expense>> GetExpenses()
         {
-            var expenses = await _expenseRepository.GetExpenses();   
+            return await _expenseRepository.GetExpenses();   
         }
     }
 }

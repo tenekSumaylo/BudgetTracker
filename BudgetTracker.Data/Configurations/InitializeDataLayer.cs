@@ -14,7 +14,7 @@ namespace BudgetTracker.Data.Configurations
         {
             services.AddDbContext<AppDBContext>(options =>
             {
-                options.UseSqlServer(config.GetConnectionString("DefaultConnection"));
+                options.UseSqlServer(config.GetConnectionString("DefaultConnection"), b=> b.MigrationsAssembly("BudgetTracker.Api"));
             });
             services.AddScoped<IExpenseRepository<Expense>, ExpenseRepository>();
         }
