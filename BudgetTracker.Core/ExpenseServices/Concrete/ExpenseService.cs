@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BudgetTracker.Core.ExpenseServices.Concrete
 {
-    public class ExpenseService : IExpenseService
+    public class ExpenseService : IExpenseService<Expense>
     {
         private readonly IExpenseRepository<Expense> _expenseRepository;
         
@@ -26,7 +26,7 @@ namespace BudgetTracker.Core.ExpenseServices.Concrete
 
         public async Task GetExpenses()
         {
-            var expenses = await _expenseRepository.GetExpenses();    
+            var expenses = await _expenseRepository.GetExpenses();   
         }
     }
 }
