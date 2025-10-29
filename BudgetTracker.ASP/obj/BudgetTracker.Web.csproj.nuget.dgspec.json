@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.ASP.csproj": {}
+    "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.ASP.csproj": {
+    "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.ASP.csproj",
-        "projectName": "BudgetTracker.ASP",
-        "projectPath": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.ASP.csproj",
+        "projectUniqueName": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Web.csproj",
+        "projectName": "BudgetTracker.Web",
+        "projectPath": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Web.csproj",
         "packagesPath": "C:\\Users\\TRAINEE-SUMAYLO\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\obj\\",
         "projectStyle": "PackageReference",
