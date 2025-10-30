@@ -1,0 +1,13 @@
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.csproj.AssemblyReference.cache
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.AssemblyInfoInputs.cache
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.AssemblyInfo.cs
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.csproj.CoreCompileInputs.cache
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.sourcelink.json
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\bin\Debug\net9.0\BudgetTracker.Core.deps.json
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\bin\Debug\net9.0\BudgetTracker.Core.dll
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\bin\Debug\net9.0\BudgetTracker.Core.pdb
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.dll
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\refint\BudgetTracker.Core.dll
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\BudgetTracker.Core.pdb
+D:\Programming Repository\BudgetTracker\BudgetTracker.Core\obj\Debug\net9.0\ref\BudgetTracker.Core.dll

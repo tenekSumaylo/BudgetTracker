@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Repository\\BudgetTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|d:\\programming repository\\budgettracker\\budgettracker.data\\concrete\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|solutionrelative:budgettracker.data\\concrete\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\configurations\\coreinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\configurations\\coreinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\dtos\\createexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\dtos\\createexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\expenseservices\\concrete\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\expenseservices\\concrete\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|d:\\programming repository\\budgettracker\\budgettracker.data\\configurations\\initializedatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|solutionrelative:budgettracker.data\\configurations\\initializedatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\expenseservices\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\expenseservices\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\repositories\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\repositories\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|d:\\programming repository\\budgettracker\\budgettracker.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|solutionrelative:budgettracker.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\efmodels\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\efmodels\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\budgettracker.asp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\budgettracker.asp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\budgettracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\budgettracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|d:\\programming repository\\budgettracker\\budgettracker.data\\budgettracker.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{861BCD4F-2BF9-46A7-B261-4DA633DB8A82}|BudgetTracker.Data\\BudgetTracker.Data.csproj|solutionrelative:budgettracker.data\\budgettracker.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|d:\\programming repository\\budgettracker\\budgettracker.api\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9A832F7-2EE7-4555-9E82-082A47A2B2BD}|BudgetTracker.Api\\BudgetTracker.Api.csproj|solutionrelative:budgettracker.api\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|d:\\programming repository\\budgettracker\\budgettracker.core\\budgettracker.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C39D535-D6D1-4CB7-808B-ED3F7F7B01A7}|BudgetTracker.Core\\BudgetTracker.Core.csproj|solutionrelative:budgettracker.core\\budgettracker.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "RelativeToolTip": "BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:36:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateExpenseDto.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Dtos\\CreateExpenseDto.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\Dtos\\CreateExpenseDto.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Dtos\\CreateExpenseDto.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\Dtos\\CreateExpenseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:04:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\Controllers\\ExpensesController.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "BudgetTracker.Api\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:48:24.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:46:40.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\appsettings.Development.json",
+              "RelativeToolTip": "BudgetTracker.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T12:51:21.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:46:47.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreInitialization.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:45:30.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InitializeDataLayer.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "RelativeToolTip": "BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:39:12.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\Program.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Program.cs",
+              "RelativeToolTip": "BudgetTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:38:48.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:33:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "BudgetTracker.Api\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:37:09.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\EFModels\\Expense.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "RelativeToolTip": "BudgetTracker.Core\\EFModels\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:32:00.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BudgetTracker.ASP.http",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\BudgetTracker.ASP.http",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\BudgetTracker.ASP.http",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\BudgetTracker.ASP.http",
+              "RelativeToolTip": "BudgetTracker.Api\\BudgetTracker.ASP.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-29T12:38:47.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BudgetTracker.Api",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\BudgetTracker.Api.csproj",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\BudgetTracker.Api.csproj",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\BudgetTracker.Api.csproj",
+              "RelativeToolTip": "BudgetTracker.Api\\BudgetTracker.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T12:38:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:47:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251029130008_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs",
+              "RelativeToolTip": "BudgetTracker.Api\\Migrations\\20251029130008_InitialCreate.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:00:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BudgetTracker.Data",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "RelativeDocumentMoniker": "BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "RelativeToolTip": "BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T12:54:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\appsettings.json",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\appsettings.json",
+              "RelativeToolTip": "BudgetTracker.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T12:51:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\global.json",
+              "RelativeDocumentMoniker": "BudgetTracker.Api\\global.json",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Api\\global.json",
+              "RelativeToolTip": "BudgetTracker.Api\\global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T12:38:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BudgetTracker.Core",
+              "DocumentMoniker": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "RelativeDocumentMoniker": "BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "ToolTip": "D:\\Programming Repository\\BudgetTracker\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "RelativeToolTip": "BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T12:38:40.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

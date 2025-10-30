@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\budgettracker.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.asp\\budgettracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|solutionrelative:budgettracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\expenseservices\\concrete\\expenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\efmodels\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\repositories\\iexpenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBECBBF-3BAA-4890-8121-47B7A8B76CD1}|..\\BudgetTracker.Data\\BudgetTracker.Data.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.data\\concrete\\expenserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBECBBF-3BAA-4890-8121-47B7A8B76CD1}|..\\BudgetTracker.Data\\BudgetTracker.Data.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.data\\budgettracker.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBECBBF-3BAA-4890-8121-47B7A8B76CD1}|..\\BudgetTracker.Data\\BudgetTracker.Data.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.data\\configurations\\initializedatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\configurations\\coreinitialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\expenseservices\\iexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBECBBF-3BAA-4890-8121-47B7A8B76CD1}|..\\BudgetTracker.Data\\BudgetTracker.Data.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.data\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.asp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8532354-664F-405A-A2C2-226F5387D403}|..\\BudgetTracker.Core\\BudgetTracker.Core.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.core\\efmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|c:\\users\\trainee-sumaylo\\source\\personal\\budgettracker\\budgettracker.asp\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14FCAD8D-8398-4104-9A7A-FF5BBAF7ED79}|BudgetTracker.Api.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BudgetTracker.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Api.csproj",
+              "RelativeDocumentMoniker": "BudgetTracker.Api.csproj",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\BudgetTracker.Api.csproj",
+              "RelativeToolTip": "BudgetTracker.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T05:58:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\Repositories\\IExpenseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:25:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BudgetTracker.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\BudgetTracker.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-29T03:41:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T05:59:00.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\EFModels\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:41:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\ExpenseServices\\Concrete\\ExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:44:48.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpenseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Data\\Concrete\\ExpenseRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:26:07.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BudgetTracker.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "RelativeToolTip": "..\\BudgetTracker.Data\\BudgetTracker.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T06:52:32.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InitializeDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Data\\Configurations\\InitializeDataLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:06:52.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\ExpenseServices\\IExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:44:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Data\\Context\\AppDBContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:43:08.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoreInitialization.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\Configurations\\CoreInitialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:05:33.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T08:59:05.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\EFModels\\User.cs",
+              "RelativeDocumentMoniker": "..\\BudgetTracker.Core\\EFModels\\User.cs",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.Core\\EFModels\\User.cs",
+              "RelativeToolTip": "..\\BudgetTracker.Core\\EFModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:41:56.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T03:42:23.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\TRAINEE-SUMAYLO\\source\\personal\\BudgetTracker\\BudgetTracker.ASP\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-29T03:42:25.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
